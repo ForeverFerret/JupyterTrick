@@ -1,0 +1,163 @@
+----  重做                     Ctrl + Shift + Z
+----  撤销                     Ctrl + Z
+----  中断内核                 I + I
+----  重启内核…                0 + 0
+----  切换到代码单元格类型      Y
+----  切换到标题 1             1
+----  切换到标题 2             2
+----  切换到标题 3             3
+----  切换到标题 4             4
+----  切换到标题 5             5
+----  切换到标题 6             6
+----  切换到Markdown单元格类型 M
+----  切换到原始单元格类型      R
+----  折叠所有标题             Ctrl + Shift + 箭头左
+----  复制单元格               C
+----  剪切单元格               X
+----  删除单元格               D + D
+----  进入编辑模式             Enter
+----  展开所有标题             Ctrl + Shift + 箭头右
+----  向上扩展选择             Shift + 箭头上
+----  向上扩展选择             Shift + K
+----  向下扩展选择             Shift + 箭头下
+----  向下扩展选择             Shift + J
+----  扩展选择至底部           Shift + End
+----  扩展选择至顶部           Shift + Home
+----  在上方插入单元格         A
+----  在下方插入单元格         B
+----  在当前标题上方插入标题   Shift + A
+----  在当前标题下方插入标题   Shift + B
+----  合并上方单元格           Ctrl + Backspace
+----  合并下方单元格           Ctrl + Shift + M
+----  合并选定的单元格         Shift + M
+----  向下移动单元格           Ctrl + Shift + 箭头下
+----  向上移动单元格           Ctrl + Shift + 箭头上
+----  选择下方单元格           箭头下
+----  选择下方单元格           J
+----  选择上方标题或折叠标题    箭头左
+----  选择下方标题或展开标题    箭头右
+----  选择上方单元格           箭头上
+----  选择上方单元格           K
+----  在下方粘贴单元格         V
+----  重做单元格操作           Shift + Z
+----  运行选定的单元格且不前进 Ctrl + Enter
+----  运行选定的单元格并在下方插入 Alt + Enter
+----  选择所有单元格           Ctrl + A
+----  并排渲染                 Shift + R
+----  撤销单元格操作           Z
+----  运行选定的单元格         Shift + Enter
+----  关闭选项卡               Alt + W
+----  结束搜索                 Escape
+----  查找下一个               Ctrl + G
+----  查找上一个               Ctrl + Shift + G
+----  查找…                   Ctrl + F
+----  关闭并关闭笔记本         Ctrl + Shift + Q
+----  激活下一个标签           Ctrl + Shift + ]
+----  激活下一个标签栏         Ctrl + Shift + .
+----  激活上一个标签           Ctrl + Shift + [
+----  激活上一个标签栏         Ctrl + Shift + ,
+----  显示左侧边栏             Ctrl + B
+----  简单界面                 Ctrl + Shift + D
+----  激活命令面板             Ctrl + Shift + C
+----  显示键盘快捷键           Ctrl + Shift + H
+----  打印…                   Ctrl + P
+----  暂停                   F9
+----  下一步                 F10
+----  调试器面板             Ctrl + Shift + E
+----  步入                   F11
+----  步出                   Shift + F11
+----  终止                   Shift + F9
+----  保存笔记本             Ctrl + S
+----  另存为…                 Ctrl + Shift + S
+----  扩展管理器             Ctrl + Shift + X
+----  文件浏览器             Ctrl + Shift + F
+----  显示上下文帮助         Ctrl + I
+----  新启动器               Ctrl + Shift + L
+----  属性检查器             Ctrl + Shift + U
+----  会话和标签             Ctrl + Shift + B
+----  设置编辑器             Ctrl + ,
+----  激活上次使用的选项卡   Ctrl + Shift + '
+----  目录                   Ctrl + Shift + K
+
+
+Keyboard Shortcuts
+Redo	Ctrl + Shift + Z
+Undo	Ctrl + Z
+Interrupt Kernel	I + I
+Restart Kernel…	0 + 0
+Change to Code Cell Type	Y
+Change to Heading 1	1
+Change to Heading 2	2
+Change to Heading 3	3
+Change to Heading 4	4
+Change to Heading 5	5
+Change to Heading 6	6
+Change to Markdown Cell Type	M
+Change to Raw Cell Type	R
+Collapse All Headings	Ctrl + Shift + ArrowLeft
+Copy Cell	C
+Cut Cell	X
+Delete Cell	D + D
+Enter Edit Mode	Enter
+Expand All Headings	Ctrl + Shift + ArrowRight
+Extend Selection Above	Shift + ArrowUp
+Extend Selection Above	Shift + K
+Extend Selection Below	Shift + ArrowDown
+Extend Selection Below	Shift + J
+Extend Selection to Bottom	Shift + End
+Extend Selection to Top	Shift + Home
+Insert Cell Above	A
+Insert Cell Below	B
+Insert Heading Above Current Heading	Shift + A
+Insert Heading Below Current Heading	Shift + B
+Merge Cell Above	Ctrl + Backspace
+Merge Cell Below	Ctrl + Shift + M
+Merge Selected Cells	Shift + M
+Move Cell Down	Ctrl + Shift + ArrowDown
+Move Cell Up	Ctrl + Shift + ArrowUp
+Select Cell Below	ArrowDown
+Select Cell Below	J
+Select Heading Above or Collapse Heading	ArrowLeft
+Select Heading Below or Expand Heading	ArrowRight
+Select Cell Above	ArrowUp
+Select Cell Above	K
+Paste Cell Below	V
+Redo Cell Operation	Shift + Z
+Run Selected Cell and Do not Advance	Ctrl + Enter
+Run Selected Cell and Insert Below	Alt + Enter
+Select All Cells	Ctrl + A
+Render Side-by-Side	Shift + R
+Undo Cell Operation	Z
+Run Selected Cell	Shift + Enter
+Close Tab	Alt + W
+End Search	Escape
+Find Next	Ctrl + G
+Find Previous	Ctrl + Shift + G
+Find…	Ctrl + F
+Close and Shut Down Notebook	Ctrl + Shift + Q
+Activate Next Tab	Ctrl + Shift + ]
+Activate Next Tab Bar	Ctrl + Shift + .
+Activate Previous Tab	Ctrl + Shift + [
+Activate Previous Tab Bar	Ctrl + Shift + ,
+Show Left Sidebar	Ctrl + B
+Simple Interface	Ctrl + Shift + D
+Activate Command Palette	Ctrl + Shift + C
+Show Keyboard Shortcuts	Ctrl + Shift + H
+Print…	Ctrl + P
+Pause	F9
+Next	F10
+Debugger Panel	Ctrl + Shift + E
+Step In	F11
+Step Out	Shift + F11
+Terminate	Shift + F9
+Save Notebook	Ctrl + S
+Save Notebook As…	Ctrl + Shift + S
+Extension Manager	Ctrl + Shift + X
+File Browser	Ctrl + Shift + F
+Show Contextual Help	Ctrl + I
+New Launcher	Ctrl + Shift + L
+Property Inspector	Ctrl + Shift + U
+Sessions and Tabs	Ctrl + Shift + B
+Settings Editor	Ctrl + ,
+Activate Previously Used Tab	Ctrl + Shift + '
+Table of Contents	Ctrl + Shift + K
